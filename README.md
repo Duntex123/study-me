@@ -1,2 +1,1 @@
-# study-me
-dueto
+index.html
